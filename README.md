@@ -13,5 +13,5 @@ mesario quanto para o arbitro em sua visualização e definição de pontos.
 ### Autoria e contribuições
 > [Italo Araújo Souza](https://github.com/italoSouzaTI)
 
-###Contato
+### Contato
 > __E-mail:__ italoasouzat.i@gmail.com

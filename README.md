@@ -1,4 +1,4 @@
-# PLacar de Luta [DEO](https://www.deojiujitsu.com.br) jiu-jitsu
+# Placar de Luta [DEO](https://www.deojiujitsu.com.br) jiu-jitsu
 Obejtivo do projeto e fazer um placar que facilite a sua utilização tanto para o 
 mesario quanto para o arbitro em sua visualização e definição de pontos.
 

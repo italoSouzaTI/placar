@@ -3,7 +3,7 @@ Obejtivo do projeto e fazer um placar que facilite a sua utilização tanto para
 mesario quanto para o arbitro em sua visualização e definição de pontos.
 
 ### Linguagem
-> Atualmente o projeto utiliza JS, Elctron, NodeJs. Com linguagem de marção de texto(HTML) e css3
+> Atualmente o projeto utiliza JS, Electron, NodeJs. Com linguagem de marção de texto(HTML) e css3
 ### IDE
 
 > [Visual studio Code](https://code.visualstudio.com)
